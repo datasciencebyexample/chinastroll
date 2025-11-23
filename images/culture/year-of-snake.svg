@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a0b1e"/>
+  <circle cx="600" cy="315" r="260" fill="#f7b801" opacity="0.15"/>
+  <path d="M300 420 C420 300 520 520 640 360 C720 260 860 360 920 240" fill="none" stroke="#f7b801" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="920" cy="240" r="20" fill="#f7b801"/>
+  <circle cx="940" cy="230" r="10" fill="#1a0b1e"/>
+  <g fill="#fff" text-anchor="middle" font-family="'Noto Serif SC', serif">
+    <text x="600" y="200" font-size="70">YEAR OF THE SNAKE</text>
+    <text x="600" y="270" font-size="44">癸巳 2025</text>
+    <text x="600" y="330" font-size="30">RENEWAL • WISDOM • FLUIDITY</text>
+  </g>
+</svg>

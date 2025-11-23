@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="w1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fdf2b6"/>
+      <stop offset="100%" stop-color="#f1c453"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <path d="M0 420 Q200 360 400 410 T800 390 T1200 420 L1200 630 L0 630 Z" fill="#88c057" opacity="0.9"/>
+  <path d="M0 360 Q220 320 440 350 T880 340 T1200 360 L1200 630 L0 630 Z" fill="#c4e86b" opacity="0.8"/>
+  <path d="M0 300 Q200 260 400 290 T800 280 T1200 310 L1200 630 L0 630 Z" fill="#f9f871" opacity="0.7"/>
+  <g fill="#fff" text-anchor="middle" font-family="'Montserrat', sans-serif">
+    <text x="600" y="210" font-size="70">WUYUAN</text>
+    <text x="600" y="280" font-size="44">HUIZHOU VILLAGES &amp; RAPESEED</text>
+    <text x="600" y="350" font-size="30">SPRING TERRACES · ANCESTRAL HALLS</text>
+  </g>
+  <g fill="#fff5">
+    <rect x="160" y="380" width="80" height="120"/>
+    <rect x="940" y="360" width="90" height="140"/>
+    <rect x="460" y="370" width="70" height="110"/>
+  </g>
+</svg>

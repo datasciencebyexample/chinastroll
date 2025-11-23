@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#33190f"/>
+  <path d="M0 420 Q200 360 400 400 T800 370 T1200 410 L1200 630 L0 630 Z" fill="#7b3f00"/>
+  <path d="M0 360 Q240 320 480 350 T960 330 T1200 350 L1200 630 L0 630 Z" fill="#a45c1b"/>
+  <path d="M80 330 H1120" stroke="#d4a276" stroke-width="18" stroke-dasharray="40 24"/>
+  <path d="M140 280 V380" stroke="#d4a276" stroke-width="18"/>
+  <path d="M360 260 V380" stroke="#d4a276" stroke-width="18"/>
+  <path d="M640 240 V380" stroke="#d4a276" stroke-width="18"/>
+  <path d="M920 260 V380" stroke="#d4a276" stroke-width="18"/>
+  <g fill="#fff" text-anchor="middle" font-family="'Merriweather', serif">
+    <text x="600" y="190" font-size="64">GREAT WALL</text>
+    <text x="600" y="250" font-size="40">FAMILY ARCHIVES</text>
+    <text x="600" y="300" font-size="28">MEMORY · HERITAGE · HOME</text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#10002b"/>
+  <circle cx="600" cy="315" r="260" fill="#f72585" opacity="0.6"/>
+  <circle cx="620" cy="300" r="220" fill="#b5179e" opacity="0.5"/>
+  <g fill="#fff" font-family="'Noto Serif SC', 'Georgia', serif" text-anchor="middle">
+    <text x="600" y="260" font-size="80">汉服</text>
+    <text x="600" y="340" font-size="52">HANFU SCENE</text>
+    <text x="600" y="410" font-size="32">STREET CULTURE 2025</text>
+  </g>
+</svg>

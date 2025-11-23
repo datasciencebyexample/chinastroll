@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#004b23"/>
+  <path d="M0 420 Q200 360 400 400 T800 380 T1200 400 L1200 630 L0 630 Z" fill="#6a994e"/>
+  <path d="M0 360 Q200 300 400 340 T800 320 T1200 340 L1200 630 L0 630 Z" fill="#a7c957" opacity="0.8"/>
+  <text x="600" y="220" font-family="'Merriweather', serif" font-size="60" fill="#fff" text-anchor="middle">LONGJI</text>
+  <text x="600" y="290" font-family="'Merriweather', serif" font-size="36" fill="#fff" text-anchor="middle">RETURNING HOME</text>
+</svg>

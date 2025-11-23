@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#240046"/>
+  <circle cx="600" cy="315" r="220" fill="#5a189a"/>
+  <text x="600" y="260" font-family="'Space Mono', monospace" font-size="54" fill="#fff" text-anchor="middle">VR</text>
+  <text x="600" y="330" font-family="'Space Mono', monospace" font-size="40" fill="#fff" text-anchor="middle">SILK ROAD</text>
+  <text x="600" y="400" font-family="'Space Mono', monospace" font-size="26" fill="#fff" text-anchor="middle">CLASSROOM</text>
+</svg>

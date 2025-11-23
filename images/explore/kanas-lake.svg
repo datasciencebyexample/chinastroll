@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#001233"/>
+  <path d="M0 420 Q200 360 400 400 T800 370 T1200 410 L1200 630 L0 630 Z" fill="#0f4c75"/>
+  <path d="M0 360 Q240 300 480 340 T960 320 T1200 350 L1200 630 L0 630 Z" fill="#3282b8"/>
+  <path d="M0 500 Q300 450 600 480 T1200 470 L1200 630 L0 630 Z" fill="#bbe1fa"/>
+  <circle cx="920" cy="170" r="80" fill="#ffd166"/>
+  <g fill="#fff" text-anchor="middle" font-family="'Montserrat', sans-serif">
+    <text x="600" y="240" font-size="70">KANAS LAKE</text>
+    <text x="600" y="310" font-size="44">ALTAI FORESTS · TURQUOISE WATER</text>
+    <text x="600" y="370" font-size="30">XINJIANG</text>
+  </g>
+</svg>

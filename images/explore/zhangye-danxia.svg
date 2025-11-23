@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <linearGradient id="g3" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#f7b267"/>
+    <stop offset="50%" stop-color="#f25f5c"/>
+    <stop offset="100%" stop-color="#247ba0"/>
+  </linearGradient>
+  <rect width="1200" height="630" fill="#0a2239"/>
+  <path d="M0 450 Q300 350 600 430 T1200 400 L1200 630 L0 630 Z" fill="url(#g3)"/>
+  <text x="600" y="250" font-family="'Montserrat', sans-serif" font-size="70" fill="#fff" text-anchor="middle">ZHANGYE</text>
+  <text x="600" y="320" font-family="'Montserrat', sans-serif" font-size="48" fill="#fff" text-anchor="middle">DANXIA</text>
+  <text x="600" y="400" font-family="'Montserrat', sans-serif" font-size="28" fill="#fff" text-anchor="middle">RAINBOW MOUNTAINS</text>
+</svg>
